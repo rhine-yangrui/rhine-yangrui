@@ -17,7 +17,7 @@ education:
   - University of Michigan, Ann Arbor  —  B.S.E Data Science
   - Shanghai Jiao Tong University       —  B.E. Mechanical Eng.
 focus:      Recommender Systems · Backend Engineering · Applied ML
-open_to:    Algorithm / Backend internships & new-grad roles  (CN / US)
+open_to:    Algorithm / Backend internships roles  (CN / US)
 currently:  Looking for 2026 summer internships in China 🇨🇳
 fun_fact:   I do photography (landscape / portrait) and travel for fun!
 ```
