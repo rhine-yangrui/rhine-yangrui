@@ -12,8 +12,8 @@
 name:       Yangrui (Rhine) Meng
 education:
   - University of California, Los Angeles  —  M.S. Electrical & Computer Engineering   (2026.09 – 2027.06)
-  - University of Michigan, Ann Arbor       —  B.S.E. Data Science                     (2024.09 – 2026.05)
-  - Shanghai Jiao Tong University           —  Mechanical Engineering (transferred)    (2022.09 – 2024.06)
+  - University of Michigan, Ann Arbor       —  B.S.E. Data Science                     (2024.08 – 2026.05)
+  - Shanghai Jiao Tong University           —  Mechanical Engineering (transferred)    (2022.09 – 2024.08)
 focus:      Recommender Systems · Applied ML · AI Search
 open_to:    MLE / SDE Internship  (CN / US)
 currently:  Looking for 2026 summer internships in China 🇨🇳
