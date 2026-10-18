@@ -14,9 +14,9 @@ education:
   - University of California, Los Angeles  —  M.S. Electrical & Computer Engineering   (2026.09 – )
   - University of Michigan, Ann Arbor       —  B.S.E. Data Science                     (2024.08 – 2026.05)
   - Shanghai Jiao Tong University           —  B.E. Electrical and Computer Engineering    (2022.09 – 2027.08)
-focus:      Recommender Systems · LLM · RL 
+focus:      RecSys · LLM · RL 
 open_to:    MLE / SDE Internship  (CN / US)
-currently:  Looking for 2026 summer internships in China 🇨🇳
+currently:  Looking for 2027 summer internships in the US 🇺🇸
 fun_fact:   Landscape & portrait photography · I travel for fun ✈️
 ```
 
