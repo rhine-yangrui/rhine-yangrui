@@ -15,7 +15,7 @@ education:
   - University of Michigan, Ann Arbor       —  B.S.E. Data Science                     (2024.08 – 2026.05)
   - Shanghai Jiao Tong University           —  B.E. Electrical and Computer Engineering    (2022.09 – 2027.08)
 focus:      RecSys · LLM · RL 
-open_to:    MLE / SDE Internship  (CN / US)
+open_to:    MLE / SWE Internship  (CN / US)
 currently:  Looking for 2027 summer internships in the US 🇺🇸
 fun_fact:   Landscape & portrait photography · I travel for fun ✈️
 ```
