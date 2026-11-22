@@ -1,7 +1,7 @@
 ### 👨‍💻 About me
 
 ```yaml
-name:       Yangrui (Rhine) Meng
+name:       Rhine Meng
 education:
   - University of California, Los Angeles  —  M.S. Electrical & Computer Engineering   (2026.09 – )
   - University of Michigan, Ann Arbor       —  B.S.E. Data Science                     (2024.08 – 2026.05)
