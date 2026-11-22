@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/rhine-yangrui">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rhine+%F0%9F%91%8B;RecSys+%C2%B7+Applied+ML+%C2%B7+AI+Search;B.S.+Data+Science+%40+UMich+%E2%86%92+M.S.+ECE+%40+UCLA;Always+shipping%2C+always+learning." alt="typing SVG" />
-  </a>
-</div>
-
 ---
 
 ### 👨‍💻 About me
@@ -15,9 +9,7 @@ education:
   - University of Michigan, Ann Arbor       —  B.S.E. Data Science                     (2024.08 – 2026.05)
   - Shanghai Jiao Tong University           —  B.E. Electrical and Computer Engineering    (2022.09 – 2027.08)
 focus:      RecSys · LLM · RL 
-open_to:    MLE / SWE Internship  (CN / US)
-currently:  Looking for 2027 summer internships in the US 🇺🇸
-fun_fact:   Landscape & portrait photography · I travel for fun ✈️
+open_to:    Machine Learning Engineer / Software Engineer Internship  (CN / US)
 ```
 
 ---
